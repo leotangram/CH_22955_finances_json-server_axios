@@ -1,0 +1,42 @@
+{
+  "goal": {
+    "amount": 2400
+  },
+  "values": [
+    {
+      "amount": "500",
+      "type": "income",
+      "id": 1
+    },
+    {
+      "amount": "100",
+      "type": "expensive",
+      "id": 2
+    },
+    {
+      "amount": "600",
+      "type": "income",
+      "id": 3
+    },
+    {
+      "amount": "400",
+      "type": "income",
+      "id": 4
+    },
+    {
+      "amount": "400",
+      "type": "income",
+      "id": 5
+    },
+    {
+      "amount": "400",
+      "type": "income",
+      "id": 6
+    },
+    {
+      "amount": "400",
+      "type": "income",
+      "id": 7
+    }
+  ]
+}
